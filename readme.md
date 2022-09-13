@@ -42,21 +42,22 @@ Open the app, search for a game and find a player to play with or create your ow
     * CHANGE: Update docs and project to github (start of development)
 
 ## Coming Soon
- --[] Base project
-    --[x] initializate project
-    --[] create server
-    --[] create web app
-    --[] create mobile app    
- --[] Authentication System
-    --[] create login page
-    --[] create register page
-    --[] social login
- --[] User experience 1.0
-    --[] Create a new advertisement system
-    --[] Create a new search system
-    --[] Create a new profile system
-    --[] Create a new chat system
- --[] Streamers experience 1.0
-    --[] Create a new advertisement system for streamers
-    --[] Create a new search system based on streaming gamming on twitch
-    --[] Create a campaign system
+
+   - [] Base project
+    - [x] initializate project
+    - [] create server
+    - [] create web app
+    - [] create mobile app    
+ - [] Authentication System
+    - [] create login page
+    - [] create register page
+    - [] social login
+ - [] User experience 1.0
+    - [] Create a new advertisement system
+    - [] Create a new search system
+    - [] Create a new profile system
+    - [] Create a new chat system
+ - [] Streamers experience 1.0
+    - [] Create a new advertisement system for streamers
+    - [] Create a new search system based on streaming gamming on twitch
+    - [] Create a campaign system
