@@ -44,10 +44,10 @@ Open the app, search for a game and find a player to play with or create your ow
 ### Coming Soon
 
    - [ ] Base project
-    - [x] initializate project
-    - [ ] create server
-    - [ ] create web app
-    - [ ] create mobile app    
+    -- [x] initializate project
+    -- [ ] create server
+    -- [ ] create web app
+    -- [ ] create mobile app    
  - [ ] Authentication System
     - [ ] create login page
     - [ ] create register page
