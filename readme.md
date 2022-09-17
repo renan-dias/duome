@@ -43,7 +43,7 @@ Open the app, search for a game and find a player to play with or create your ow
 
 ### Coming Soon
 
-   - [ ] Base project
+ - [ ] Base project
     - [x] initializate project
     - [ ] create server
     - [ ] create web app
