@@ -41,7 +41,7 @@ Open the app, search for a game and find a player to play with or create your ow
 * 0.0.1
     * CHANGE: Update docs and project to github (start of development)
 
-## Coming Soon
+### Coming Soon
 
    - [] Base project
     - [x] initializate project
