@@ -40,14 +40,37 @@ Open the app, search for a game and find a player to play with or create your ow
 
 * 0.0.1
     * CHANGE: Update docs and project to github (start of development)
+    
+* 0.0.2
+    * CHANGE: Update project (Base project initialized)
+    
+* 0.0.3
+    * CHANGE: Update project (Web app)
+
+* 0.0.4
+    * CHANGE: Update project (Web app - bug fixes)
+    
+* 0.0.5
+    * CHANGE: Update project (Web app - more bug fixes)
+
+* 0.0.6
+    * CHANGE: Update project (server)
+    
+* 0.0.7
+    * CHANGE: Update project (server and web app - bug fixes)
+
+* 0.0.8
+    * CHANGE: Update project (mobile app)
+   
+
 
 ### Coming Soon
 
- - [ ] Base project
+ - [x] Base project
     - [x] initializate project
-    - [ ] create server
-    - [ ] create web app
-    - [ ] create mobile app    
+    - [x] create server
+    - [x] create web app
+    - [x] create mobile app    
  - [ ] Authentication System
     - [ ] create login page
     - [ ] create register page
